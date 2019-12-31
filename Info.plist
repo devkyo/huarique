@@ -1,0 +1,10 @@
+<key> NSCameraUsageDescription </key> 
+<string> Su mensaje al usuario cuando se accede a la cámara por primera vez </string> 
+
+<! - Incluya esto solo si planea usar el rollo de la cámara -> 
+<key> NSPhotoLibraryUsageDescription </key> 
+<string> Su mensaje al usuario cuando se accede a la biblioteca de fotos por primera vez </string> 
+
+<! - Incluya esto solo si planea usar el micrófono para grabación de video -> 
+<key> NSMicrophoneUsageDescription </key> 
+<string> Su mensaje al usuario cuando se accede al micrófono por primera vez </string>
